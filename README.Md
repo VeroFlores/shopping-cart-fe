@@ -15,4 +15,9 @@ Endpoints  | Method | Return
 /api/product/category/:id  | GET | List of all products whose belongs to selected category.
 
 ## Deployment 
+Is not available right now, access doing 
+
+~~~
+npm start
+~~~
 
