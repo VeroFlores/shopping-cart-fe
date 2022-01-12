@@ -8,9 +8,16 @@
     "start": "serve src/",
     "deploy": "gh-pages -d src"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VeroFlores/shopping-cart-fe.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VeroFlores/shopping-cart-fe/issues"
+  },
   "homepage": "https://veroflores.github.io/shopping-cart-fe/",
   "dependencies": {
     "serve": "^13.0.2"
