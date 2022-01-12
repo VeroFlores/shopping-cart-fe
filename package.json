@@ -21,5 +21,8 @@
   "homepage": "https://veroflores.github.io/shopping-cart-fe/",
   "dependencies": {
     "serve": "^13.0.2"
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
   }
 }
